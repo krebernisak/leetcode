@@ -1,10 +1,8 @@
-LeetCode
-========
+# LeetCode
 
 ### LeetCode Algorithms
 
 (Notes: "&hearts;" means you need to buy a subscription from LeetCode)
-
 
 | #    | Title                                                                                                                                                    | Solution                                                            | Difficulty |
 | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
@@ -95,7 +93,7 @@ LeetCode
 | 409  | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                                                  |                                                                     | Easy       |
 | 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)                                                          |                                                                     | Medium     |
 | 405  | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)                                                        |                                                                     | Easy       |
-| 404  | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                                                  |                                                                     | Easy       |
+| 404  | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                                                  | [JS](./algorithms/js/404.sum-of-left-leaves.js)                     | Easy       |
 | 403  | [Frog Jump](https://leetcode.com/problems/frog-jump/)                                                                                                    |                                                                     | Hard       |
 | 402  | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)                                                                                        |                                                                     | Medium     |
 | 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)                                                                                              |                                                                     | Easy       |
@@ -112,7 +110,7 @@ LeetCode
 | 390  | [Elimination Game](https://leetcode.com/problems/elimination-game/)                                                                                      |                                                                     | Medium     |
 | 389  | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                                                                |                                                                     | Easy       |
 | 388  | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)                                                                  |                                                                     | Medium     |
-| 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                  |                                                                     | Easy       |
+| 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                  | [JS](./algorithms/js/387.first-unique-character-in-a-string.js)     | Easy       |
 | 386  | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)                                                                        |                                                                     | Medium     |
 | 385  | [Mini Parser](https://leetcode.com/problems/mini-parser/)                                                                                                |                                                                     | Medium     |
 | 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)                                                                                      |                                                                     | Medium     |
@@ -191,7 +189,7 @@ LeetCode
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                                                              | [JS](./algorithms/js/237.delete-node-in-a-linked-list.js)           | Easy       |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)                                        |                                                                     | Medium     |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                          |                                                                     | Easy       |
-| 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                                          |                                                                     | Easy       |
+| 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                                          | [JS](./algorithms/js/234.palindrome-linked-list.js)                 | Easy       |
 | 233  | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)                                                                                |                                                                     | Medium     |
 | 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                                              |                                                                     | Easy       |
 | 231  | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                              | [JS](./algorithms/js/231.power-of-two.js)                           | Easy       |
