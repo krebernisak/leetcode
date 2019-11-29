@@ -2,6 +2,8 @@
  * @lc app=leetcode id=125 lang=javascript
  *
  * [125] Valid Palindrome
+ * https://leetcode.com/problems/valid-palindrome/
+ * [Easy][String][Two Pointers]
  */
 
 // @lc code=start
@@ -9,10 +11,10 @@
  * @param {string} s
  * @return {boolean}
  */
-var isPalindrome = function(s) {
+const isPalindrome = s => {
   if (!s) return true;
-  let l = 0,
-    r = s.length - 1;
+  let l = 0;
+  let r = s.length - 1;
   while (l < r) {
     const cl = toLowerCase(s, l);
     if (cl < 0) {
