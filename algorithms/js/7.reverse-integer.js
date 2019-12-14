@@ -19,7 +19,7 @@ const reverse = x => {
   let rev = 0;
   while (x !== 0) {
     const pop = x % 10;
-    x = parseInt(x / 10);
+    x = parseInt(x / 10); // different rounding for n < 0 vs. Math.floor
     if (rev < INT_MIN_STEP || rev > INT_MAX_STEP) return 0;
     rev = rev * 10 + pop;
   }
